@@ -1,7 +1,7 @@
 {
   "name": "nlw-2",
   "version": "1.0.0",
-  "description": "Repo sobre a Next Level Week #2 da Rocketseat <3",
+  "description": "Repo sobre a Next Level Week #2 da Rocketseat &lt;3",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.js"
@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Brenno-Daniel/nlw-2#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nunjucks": "^3.2.2"
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
